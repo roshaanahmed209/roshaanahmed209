@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Roshaan Ahmed Siddiqui</h1>
 <p align="center">
-  🎓 Final Year Computer Science Student | 🤖 AI & ML Enthusiast | 🌐 Full-Stack Developer<br>
+  🎓 An Artificial Intelligence Graduate | 🤖 AI & ML Enthusiast <br>
   Passionate about building intelligent, scalable solutions that blend AI, automation, and user-centric design.
 </p>
 
@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a final-year computer science student with a strong focus on Artificial Intelligence, Computer Vision, and Web Application Development. I enjoy building intelligent systems that solve real-world problems — from automating land encroachment detection to crafting human-like AI sales agents. I’m constantly exploring LLMs, generative AI, and agentic frameworks like Google ADK, LangChain, and LangGraph.
+I'm a graduate with bachelors in Artificial Intelligence, with a strong focus on Artificial Intelligence Model Developement, Computer Vision, and Web Application Development. I enjoy building intelligent systems that solve real-world problems — from automating land encroachment detection using Computer vision techniques to crafting human-like AI sales agents. I’m constantly exploring LLMs, generative AI, and agentic frameworks like Google ADK, LangChain, and LangGraph.
 
 ---
 
